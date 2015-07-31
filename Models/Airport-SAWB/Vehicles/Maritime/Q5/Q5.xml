@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+<path>Q5.ac</path>
+
+<animation>
+	<type>rotate</type>
+	<object-name>Radar</object-name>
+	<property>/sim/time/elapsed-sec</property>
+		<factor>50.0</factor>
+		<center>
+			<x-m>-28.4118</x-m>
+			<y-m>0.0981245</y-m>
+			<z-m>23.639</z-m>
+		</center>
+		<axis>
+			<x>0</x>
+			<y>0</y>
+			<z>1</z>
+		</axis>
+</animation>
+
+</PropertyList>
+ 
